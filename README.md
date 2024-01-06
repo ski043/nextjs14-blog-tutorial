@@ -1,4 +1,6 @@
-Blog 1:
+# Please check public folder for images
+
+# Blog 1:
 small Description: Explore the groundbreaking features and enhancements that come with Next.js 14, the latest version of the popular React framework, and discover how it's set to revolutionize the way we build web applications.
 
 ### Unveiling Next.js 14: A Quantum Leap in Web Development
